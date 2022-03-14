@@ -1,7 +1,7 @@
 # 100-days-of-code
 My web development codes for 100 days.
 
-![my image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngitem.com%2Fmiddle%2FhmbThTm_html-css-php-mysql-hd-png-download%2F&psig=AOvVaw1TtImPJ9crpLm6TTYX2t4I&ust=1647320650296000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjI9OXpxPYCFQAAAAAdAAAAABAD)
+![my image]()
 
 ### Contents:
 
