@@ -16,4 +16,4 @@ My web development codes for 100 days.
 
 #### Designed and developed by NANDHINI:
 
-(https://nandhinipython.github.io/bio/)
+https://nandhinipython.github.io/bio/
