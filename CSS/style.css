@@ -9,6 +9,21 @@ mark {
   width: 30;
 }
 
+tbody tr:nth-child(odd) {
+  background-color: #FFDDEE;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #D885A3;
+}
+
+tbody tr {
+  background-image: url(noise.png);
+}
+
+table {
+  background-color: #EA99D5;
+}
 
 .container{
   height: 600px;
