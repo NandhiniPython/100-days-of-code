@@ -14,6 +14,6 @@ My web development codes for 100 days.
 `day004.html` : **Usage of tables in html**
 
 
-#### Designed and developed by:
+#### Designed and developed by NANDHINI:
 
-![NANDHINI](https://nandhinipython.github.io/bio/)
+(https://nandhinipython.github.io/bio/)
