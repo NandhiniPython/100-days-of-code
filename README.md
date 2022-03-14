@@ -1,7 +1,7 @@
 # 100-days-of-code
 My web development codes for 100 days.
 
-![my image](Computer/Local Disc(E:)/RAJA Datasets/tea time/165.jpg)
+![my image][Computer/Local Disc(E:)/RAJA Datasets/tea time/165.jpg]
 
 ### Contents:
 
