@@ -1,7 +1,7 @@
 # 100-days-of-code
 My web development codes for 100 days.
 
-![my image]()
+![my image](https://github.com/NandhiniPython/100-days-of-code/blob/main/images/myimg.png)
 
 ### Contents:
 
