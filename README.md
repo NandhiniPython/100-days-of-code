@@ -15,6 +15,8 @@ My web development codes for 100 days.
 
 `day005.html` : **Usage of lists in html**
 
+`day006.html` : **Image elements in html using css**
+
 
 #### Designed and developed by NANDHINI:
 
