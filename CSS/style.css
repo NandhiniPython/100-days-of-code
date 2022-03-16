@@ -25,7 +25,19 @@ table {
   background-color: #EA99D5;
 }
 
-.container{
+.G  {
+  color: green;
+}
+
+.B  {
+  color: blue;
+}
+
+.O  {
+  color: orange;
+}
+
+.container  {
   height: 600px;
   width: 600px;
   background-color: palegreen;
@@ -45,7 +57,7 @@ table {
   background-color: blue;
   position: absolute;
   left: 200px;
-  top: 390px;
+  top: 200px;
 
 
 }
@@ -56,6 +68,106 @@ table {
   background-color: yellow;
   position: absolute;
   left: 400px;
-  top: 590px;
+  top: 400px;
+}
 
+.main  {
+  height: 1000px;
+  width: 1000px;
+  background-color: lightgrey;
+  position: relative;
+}
+
+.sub-1  {
+  height: 300px;
+  width: 300px;
+  position: fixed;
+  top: 200;
+}
+
+.sub-2  {
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  left: 170px;
+  top: 110px;
+}
+
+.sub-3  {
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  left: 450px;
+  top: 250px;
+}
+
+.sub-4  {
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  left: 650px;
+  top: 400px;
+}
+
+.sub-5  {
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  top: 300px;
+}
+
+.sub-6  {
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  left: 300px;
+  top: 400px;
+}
+
+.sub-7  {
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  left: 500px;
+  top: 600px;
+}
+
+.sub-8  {
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  left: 700px;
+  top: 800px;
+}
+
+.sub-9  {
+  height: 200px;
+  width: 200px;
+  position: absolute;
+
+  top: 600px;
+}
+
+.sub-10  {
+  height: 200px;
+  width: 200px;
+  position: absolute;
+
+  top: 800px;
+}
+
+.sub-11  {
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  left: 600px;
+
+}
+
+.sub-12  {
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  top: 800px;
+  left: 400px;
 }
