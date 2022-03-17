@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Form</title>
+  <h1>HTML Form</h1>
+  <h3>Day 007</h3>
+  <link rel="stylesheet" href="CSS/style.css">
+</head>
+
+<body>
+  <p>17 march 2022</p>
+  <p>In today's code we are going to learn about HTML Form.</p>
+
+  <br>
+
+  <h3>MY CONTACT</h3>
+  <p><strong>My contact address:</strong></p>
+  <p>No.111, West street,</p>
+  <p>East Road,</p>
+  <p>Opp to Butterfly Park,</p>
+  <p>Near Amazon Jungle,</p>
+  <p>Brazil-000101.</p>
+
+  <br>
+  <br>
+
+  <form class="" action="mailto:nandhini.python@gmail.com" enctype="text/plain">
+    <div class="">
+      <label>Your name:</label>
+      <input type="text" name="" value="">
+    </div>
+    <br>
+    <div class="">
+      <label>Your message:</label><br>
+      <textarea name="your message" rows="20" cols="60"></textarea>
+    </div>
+    <br>
+    <div class="">
+      <label for="">Your E-mail ID:</label>
+      <input type="text" name="" value="">
+      <input type="submit" name="">
+    </div>
+    <br>
+    <div class="">
+      <label>Date:</label>
+      <input type="date" name="" value="">
+      <br>
+      <br>
+      <input type="file" name="" value="">
+    </div>
+    <br>
+    <div class="">
+      <label for="ice-cream-choice">Choose a flavor:</label>
+      <input list="ice-cream-flavors" id="ice-cream-choice" name="ice-cream-choice" />
+
+      <datalist id="ice-cream-flavors">
+        <option value="Chocolate">
+        <option value="Coconut">
+        <option value="Mint">
+        <option value="Strawberry">
+        <option value="Vanilla">
+      </datalist>
+    </div>
+    <br>
+    <div class="">
+      <label for="pet-select">Choose a pet:</label>
+
+<select id="pet-select">
+    <option value="">--Please choose an option--</option>
+    <option value="dog">Dog</option>
+    <option value="cat">Cat</option>
+    <option value="hamster">Hamster</option>
+    <option value="parrot">Parrot</option>
+    <option value="spider">Spider</option>
+    <option value="goldfish">Goldfish</option>
+</select>
+    </div>
+    <br>
+<div class="">
+  <label for="story">Tell us your story:</label>
+
+<textarea id="story" name="story"
+          rows="5" cols="33">
+It was a dark and stormy night... The monster arriving soon......
+</textarea>
+</div>
+    <br>
+    <div class="">
+      <fieldset>
+        <legend>Choose your favorite monster</legend>
+
+        <input type="radio" id="kraken" name="monster">
+        <label for="kraken">Kraken</label><br />
+
+        <input type="radio" id="sasquatch" name="monster">
+        <label for="sasquatch">Sasquatch</label><br />
+
+        <input type="radio" id="mothman" name="monster">
+        <label for="mothman">Mothman</label>
+      </fieldset>
+    </div>
+    <br>
+    <div class="">
+      <label for="fuel">Fuel level:</label>
+
+<meter id="fuel"
+       min="0" max="100"
+       low="33" high="66" optimum="80"
+       value="60">
+    at 50/100
+</meter>
+    </div>
+    <br>
+
+    <div class="">
+      <fieldset>
+        <legend>Title</legend>
+        <label><input type="radio" name="radio" value="10"> Select me</label>
+      </fieldset>
+    </div>
+    <br>
+    <div class="form-example">
+      <input type="submit" value="Submit Here!">
+    </div>
+    <br>
+
+  </form>
+
+  <br>
+  <mark>Thank you for your valuable time!</mark>
+
+</body>
+
+</html>
