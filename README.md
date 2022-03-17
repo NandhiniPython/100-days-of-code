@@ -17,6 +17,8 @@ My web development codes for 100 days.
 
 `day006.html` : **Image elements in html using css**
 
+`day007.html` : **Image elements in html using css**
+
 
 #### Designed and developed by NANDHINI:
 
