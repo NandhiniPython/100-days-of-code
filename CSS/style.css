@@ -195,3 +195,15 @@ label {
     display: block;
     margin-bottom: 10px;
 }
+
+.id {
+  color: #890F0D;
+}
+
+.class  {
+  color: #890F0D;
+}
+
+.p8 {
+  width: 50%;
+}
