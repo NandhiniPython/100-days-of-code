@@ -19,6 +19,8 @@ My web development codes for 100 days.
 
 `day007.html` : **HTML Forms**
 
+`day008.html` : **Classes vs. Ids Model**
+
 
 #### Designed and developed by NANDHINI:
 
