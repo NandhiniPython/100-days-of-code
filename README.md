@@ -21,6 +21,8 @@ My web development codes for 100 days.
 
 `day008.html` : **Classes vs. Ids Model**
 
+`day009.html` : **Float and Clear using CSS**
+
 
 #### Designed and developed by NANDHINI:
 
