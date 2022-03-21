@@ -23,6 +23,8 @@ My web development codes for 100 days.
 
 `day009.html` : **Float and Clear using CSS**
 
+`day010.html` : **HTML Headings**
+
 
 #### Designed and developed by NANDHINI:
 
