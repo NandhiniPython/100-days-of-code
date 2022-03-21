@@ -27,13 +27,20 @@ table {
   background-color: #EA99D5;
 }
 
+
 hr  {
-  background-color: grey;
-  border-top-style: dashed;
-  height: 0;
-  width: 200px;
-  align: left;
+  border-style: dotted;
+  border-color: #EAF6F6;
+  border-bottom: none;
+  width: 4%;
+  border-width: 6px;
+  margin: 100px auto;
 }
+
+p {
+  line-height: 2;
+}
+
 
 .G  {
   color: green;
@@ -79,7 +86,7 @@ hr  {
   top: 400px;
 }
 
-.main  {
+.main-006  {
   height: 1000px;
   width: 1000px;
   background-color: lightgrey;
@@ -206,4 +213,63 @@ label {
 
 .p8 {
   width: 50%;
+}
+
+.main-009 {
+  margin: auto;
+  position: relative;
+}
+
+.img9-1 {
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+  text-align: left;
+}
+
+.img9-2 {
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+
+.img9-3 {
+  width: 15%;
+  float: right;
+  margin-right: 30px;
+}
+
+.img9-4 {
+  width: 15%;
+  float: right;
+  margin-right: 30px;
+}
+
+
+.middle-container {
+  margin: 50px 50px 70px;
+}
+
+.img1 {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.img2 {
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+
+.img3 {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.img4 {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
 }
