@@ -27,6 +27,10 @@ My web development codes for 100 days.
 
 `day011.html` : **HTML Colors**
 
+`day012.html` : **HTML Styles**
+
+`day013.html` : **Quotation Elements**
+
 
 #### Designed and developed by NANDHINI:
 
