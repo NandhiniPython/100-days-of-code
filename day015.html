@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>HTML JavaScript</title>
+    <h1>HTML JavaScript</h1>
+    <h3>Day 015</h3>
+    <link rel="stylesheet" href="CSS/style.css">
+  </head>
+  <body>
+    <p>28 Mar 2022</p>
+    <p>In today's code we are going to learn about HTML JavaScript.</p>
+
+<br>
+    <button type="button"
+    onclick="document.getElementById('demo').innerHTML = Date()">
+    Click me to display Date and Time.</button>
+
+    <p id="demo"></p>
+
+
+<br>
+
+<p id="can">JavaScript can change the style of an HTML element.</p>
+
+<script>
+function myFunction() {
+  document.getElementById("can").style.fontSize = "25px";
+  document.getElementById("can").style.color = "white";
+  document.getElementById("can").style.backgroundColor = "blue";
+}
+</script>
+
+<button type="button" onclick="myFunction()">Click Me!</button>
+
+<br>
+    <mark>Thank you for your valuable time!</mark>
+  </body>
+</html>
