@@ -29,12 +29,11 @@ table {
 
 
 hr  {
-  border-style: dotted;
-  border-color: #EAF6F6;
-  border-bottom: none;
-  width: 4%;
-  border-width: 6px;
-  margin: 100px auto;
+    border-style:ridge;
+    border-color: gray;
+    border-bottom: none;
+    border-width: 1px;
+    margin: 0;
 }
 
 p {
