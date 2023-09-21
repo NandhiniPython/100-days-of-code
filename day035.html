@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Combining Selectors</title>
+        <link rel="stylesheet" href="CSS/style.css">
+        <h1>Combining Selectors</h1>
+        <h3>Day 035</h3>
+
+        <style>
+            h1, h2  {
+                color: blueviolet;
+            }
+
+            .box > p  {
+                color: firebrick;
+            }
+
+            .box li  {
+                color: blue;
+            }
+
+            li.done {
+                color: seagreen;
+            }
+
+            ul p.done  {
+                font-size: 0.5rem;
+            }
+        </style>
+            
+    </head>
+
+    <body>
+        <p class="opening">04 August 2023</p>
+        <p class="opening">In today's code we are going to learn about Combining Selectors.</p>
+        <hr>
+        
+        <h1>To Do List</h1>
+        <h2>Monday</h2>
+        <div class="box">
+          <p class="done">Do these things today!</p>
+          <ul class="list">
+            <li>Wash Clothes</li>
+            <li class="done">Read</li>
+            <li class="done">Maths Questions</li>
+          </ul>
+        </div> 
+      
+        <ul>
+          <p class="done">Other items</p>
+        </ul>
+        <p>The best preparation for tomorrow is doing your best today.</p>
+      
+            
+        <br>
+        <mark>Thank you for your valuable time!</mark>
+    </body>
+</html>
+
