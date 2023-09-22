@@ -60,6 +60,10 @@ body  {
   .O  {
     color: orange;
   }
+
+  .opening  {
+    color: #000;
+  }
   
   .container  {
     height: 600px;
