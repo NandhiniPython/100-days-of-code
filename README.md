@@ -79,41 +79,41 @@ My web development codes for 100 days.
 
 `day037.html` : **CSS Flag Project**
 
-`day038.html` : **CSS Display**
+`day038.html` : **CSS Display Horizontal**
 
-`day039.html` : **CSS Float**
+`day039.html` : **CSS Display Vertical**
 
-`day040.html` : **Responsiveness**
+`day040.html` : **CSS Float**
 
-`day041.html` : **Media Query**
+`day041.html` : **Responsiveness**
 
-`day042.html` : **Web Design Agency Project**
+`day042.html` : **Media Query**
 
-`day043.html` : **Display Flex**
+`day043.html` : **Web Design Agency Project**
 
-`day044.html` : **Flex Direction**
+`day044.html` : **Display Flex**
 
-`day045.html` : **Flexbox Pricing Table Project**
+`day045.html` : **Flex Direction**
 
-`day046.html` : **Display Grid**
+`day046.html` : **My Country Flag**
 
-`day047.html` : **Grid Sizing**
+`day047.html` : **Flexbox Pricing Table Project**
 
-`day048.html` : **Grid Placement**
+`day048.html` : **Display Grid**
 
-`day049.html` : **Mondarian Project**
+`day049.html` : **Grid Sizing**
 
-`day050.html` : **Bootstrap Card**
+`day050.html` : **Grid Placement**
 
-`day051.html` : **Bootstrap Components**
+`day051.html` : **Mondarian Project**
 
-`day052.html` : **TinDog Project**
+`day052.html` : **Bootstrap Card**
 
-`day053.html` : **My Country Flag**
+`day053.html` : **Bootstrap Components**
 
-`day054.html` : **My Resume Project**
+`day054.html` : **TinDog Project**
 
-`day055.html` : **My Personal Site**
+`day055.html` : **Sample Resume Project**
 
 
 #### Designed and developed by NANDHINI LAKSHMANAMOORTHY:
